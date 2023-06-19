@@ -96,3 +96,9 @@ body{
 .info-box img, .info-box .subtext2{
     width: 60%;
 }
+
+.info-box .subtext2{
+    color: #1f2937;
+    font: 18px;
+    text-align: center;
+}
